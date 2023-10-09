@@ -1,4 +1,4 @@
-from src.main import add_numbers
+from cli import add_numbers
 
 
 def test_add_numbers():
