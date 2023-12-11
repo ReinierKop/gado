@@ -11,7 +11,7 @@ python = "^3.10"
 
 [tool.poetry.group.test.dependencies]
 pre-commit = "^3.4.0"
-ruff = "^0.0.292"
+ruff = "^0.1.7"
 black = "^23.9.1"
 pytest = "^7.4.2"
 coverage = "^7.3.2"
